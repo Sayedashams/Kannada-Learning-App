@@ -32,11 +32,11 @@ Designed a responsive UI/UX prototype for a Kannada Learning App aimed at helpin
 
 ### 📱 Mobile Prototype
 
-[PASTE YOUR WEBSITE FIGMA LINK HERE](https://www.figma.com/proto/XQTXJGPJX6cQd4X2CK2Dna/KALI?page-id=0%3A1&node-id=10-360&viewport=3439%2C448%2C0.24&t=XXSFqGGqkdJKCTma-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A360&show-proto-sidebar=1)
+[Mobile Prototype](https://www.figma.com/proto/XQTXJGPJX6cQd4X2CK2Dna/KALI?page-id=0%3A1&node-id=10-360&viewport=3439%2C448%2C0.24&t=XXSFqGGqkdJKCTma-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A360&show-proto-sidebar=1)
 
 ### 💻 Web Prototype
 
-[PASTE YOUR WEBSITE FIGMA LINK HERE](https://www.figma.com/proto/YijPvjc6iPQDuEgryog5J3/Kali-Web-App?page-id=0%3A1&node-id=1-2&p=f&viewport=-6724%2C-517%2C0.55&t=BHRgsNK4MURaEv7V-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+[Web Prototype](https://www.figma.com/proto/YijPvjc6iPQDuEgryog5J3/Kali-Web-App?page-id=0%3A1&node-id=1-2&p=f&viewport=-6724%2C-517%2C0.55&t=BHRgsNK4MURaEv7V-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 ---
 
