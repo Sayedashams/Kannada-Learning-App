@@ -42,10 +42,12 @@ Designed a responsive UI/UX prototype for a Kannada Learning App aimed at helpin
 
 ## Project Screenshots
 
-<img width="400" height="900" alt="Screenshot 2026-07-24 015606" src="https://github.com/user-attachments/assets/7d66bccd-869a-4ddd-a600-d5f1b3d1f019" />
-<img width="443" height="938" alt="Screenshot 2026-07-24 015635" src="https://github.com/user-attachments/assets/a1cfb336-72d1-4c4a-af96-fe0a86dc9485" />
-<img width="448" height="943" alt="Screenshot 2026-07-24 015758" src="https://github.com/user-attachments/assets/f43e9d37-7f7f-47bf-bd96-ea3f40876fbb" />
-<img width="442" height="945" alt="Screenshot 2026-07-24 020057" src="https://github.com/user-attachments/assets/6ecc297c-a6f3-42bf-8048-68501b298b8e" />
-<img width="440" height="946" alt="Screenshot 2026-07-24 015826" src="https://github.com/user-attachments/assets/4ce9eff8-f280-4158-9efd-709b8db87931" />
-<img width="440" height="938" alt="Screenshot 2026-07-24 015849" src="https://github.com/user-attachments/assets/e9191957-6805-44bc-b9a8-2eb485c8635e" />
-<img width="443" height="947" alt="Screenshot 2026-07-24 020031" src="https://github.com/user-attachments/assets/7d427dcc-5608-45de-9490-a60426ab0439" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 015606" src="https://github.com/user-attachments/assets/7d66bccd-869a-4ddd-a600-d5f1b3d1f019" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 015635" src="https://github.com/user-attachments/assets/a1cfb336-72d1-4c4a-af96-fe0a86dc9485" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 015758" src="https://github.com/user-attachments/assets/f43e9d37-7f7f-47bf-bd96-ea3f40876fbb" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 020057" src="https://github.com/user-attachments/assets/6ecc297c-a6f3-42bf-8048-68501b298b8e" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 213451" src="https://github.com/user-attachments/assets/78b408ea-7214-446a-8f39-e99ce05271b8" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 213533" src="https://github.com/user-attachments/assets/ef19ce90-5379-429b-8ae9-22f04e3d145a" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 015826" src="https://github.com/user-attachments/assets/4ce9eff8-f280-4158-9efd-709b8db87931" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 015849" src="https://github.com/user-attachments/assets/e9191957-6805-44bc-b9a8-2eb485c8635e" />
+<img width="300" height="600" alt="Screenshot 2026-07-24 020031" src="https://github.com/user-attachments/assets/7d427dcc-5608-45de-9490-a60426ab0439" />
